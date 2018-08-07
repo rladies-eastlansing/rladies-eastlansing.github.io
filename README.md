@@ -20,6 +20,6 @@ R-Ladies East Lansing welcomes members of **all R proficiency levels**, whether 
 * Interested in giving Lightning talks (Aug, Sep 2018)? https://bit.ly/rlel-lightning
 
 ## Organizers:
-- Janani Ravi: [Email](mailto:jananiravi@rladies.org) | [Twitter](www.twitter.com/janani137) | [Webpage](jananiravi.github.io)
-- Camille Archer: [Email](mailto:camille@rladies.org) | [Twitter](www.twitter.com/CamilleArcher5) | [Facebook](facebook.com/archerc5)
+- Janani Ravi: [Email](mailto:jananiravi@rladies.org) [Twitter](www.twitter.com/janani137) [Webpage](jananiravi.github.io)
+- Camille Archer: [Email](mailto:camille@rladies.org) [Twitter](www.twitter.com/CamilleArcher5) [Facebook](facebook.com/archerc5)
 
