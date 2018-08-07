@@ -16,8 +16,9 @@ R-Ladies East Lansing welcomes members of **all R proficiency levels**, whether 
 * **Social Media**: Twitter, [@RLadiesELansing](www.twitter.com/RLadiesELansing) & [@RLadiesGlobal](www.twitter.com/RLadiesGlobal)& [Facebook](www.facebook.com/rladieseastlansing) (_for the latest updates_)
 * **E-mail**: eastlansing [at] rladies [dot] org; info [at] rladies [dot] org (_to be our sponsor, ask questions!_)
 
-* Getting started survey for new members: https://bit.ly/rlel-gettingstarted
-* Interested in giving Lightning talks (Aug, Sep 2018)? https://bit.ly/rlel-lightning
+* **Surveys**:
+  * Getting started survey for new members: https://bit.ly/rlel-gettingstarted
+  * Interested in giving Lightning talks (Aug, Sep 2018)? https://bit.ly/rlel-lightning
 
 ## Organizers:
 - Janani Ravi: [Email](mailto:jananiravi@rladies.org) – [Twitter](www.twitter.com/janani137) – [Webpage](jananiravi.github.io)
