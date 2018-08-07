@@ -14,7 +14,7 @@ R-Ladies East Lansing welcomes members of **all R proficiency levels**, whether 
 * **GitHub**: [@RLadies-EastLansing](https://github.com/RLadies-EastLansing) (_for presentations, material_)
 * **Webpage**: rladies-eastlansing.github.io (_work-in-progress_)
 * **Social Media**: Twitter, [@RLadiesELansing](www.twitter.com/RLadiesELansing) & [@RLadiesGlobal](www.twitter.com/RLadiesGlobal)& [Facebook](www.facebook.com/rladieseastlansing) (_for the latest updates_)
-* **E-mail**: eastlansing [at] rladies [dot] org; info [at] rladies [dot] org (_to be our sponsor, ask questions!_)
+* **E-mail**: eastlansing **at** rladies **dot** org; info **at** rladies **dot** org (_to be our sponsor, ask questions!_)
 
 * **Surveys**:
   * Getting started survey for new members: https://bit.ly/rlel-gettingstarted
