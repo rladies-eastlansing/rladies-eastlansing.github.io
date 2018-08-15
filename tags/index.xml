@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2030 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 20 Apr 2030 00:00:00 -0400</pubDate>
       
       <guid>/tags/academic/</guid>
       <description></description>
@@ -40,6 +40,24 @@
     </item>
     
     <item>
+      <title>Ditching_Excel</title>
+      <link>/tags/ditching_excel/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/ditching_excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>/tags/games/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -58,11 +76,74 @@
     </item>
     
     <item>
+      <title>R_Ladies</title>
+      <link>/tags/r_ladies/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/r_ladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R_packages</title>
+      <link>/tags/r_packages/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/r_packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Tests</title>
+      <link>/tags/statistical-tests/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/statistical-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical_Tests</title>
+      <link>/tags/statistical_tests/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/statistical_tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>/tags/version-control/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/version-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>/tags/websites/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/websites/</guid>
       <description></description>
     </item>
     

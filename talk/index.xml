@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>August Lightning Talks</title>
       <link>/talk/2018-08-13_lightning/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
@@ -28,15 +37,6 @@
       
       <guid>/talk/2018-09-10_lightning/</guid>
       <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>
