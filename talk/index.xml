@@ -13,30 +13,30 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
       <title>August Lightning Talks</title>
-      <link>/talk/2018-08-13_lightning/</link>
+      <link>/talk/20180813_lightning/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/2018-08-13_lightning/</guid>
-      <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/talk/20180813_lightning/</guid>
+      <description>Slides and material are available here.</description>
     </item>
     
     <item>
       <title>September Lightning Talks</title>
-      <link>/talk/2018-09-10_lightning/</link>
+      <link>/talk/20180910_lightning/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/2018-09-10_lightning/</guid>
+      <guid>/talk/20180910_lightning/</guid>
       <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Kick-off Meetup</title>
+      <link>/talk/20180725-kickoff/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/20180725-kickoff/</guid>
+      <description>Slides and material are available here.</description>
     </item>
     
   </channel>

@@ -58,29 +58,11 @@
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>R-Ladies</title>
+      <link>/tags/r-ladies/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R_Ladies</title>
-      <link>/tags/r_ladies/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/r_ladies/</guid>
+      <guid>/tags/r-ladies/</guid>
       <description></description>
     </item>
     
@@ -90,15 +72,6 @@
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/r_packages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

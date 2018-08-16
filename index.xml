@@ -12,10 +12,10 @@
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/unused/getting-started/</link>
       <pubDate>Sat, 20 Apr 2030 00:00:00 -0400</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/unused/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -199,48 +199,57 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Tue, 01 Jan 2030 00:00:00 -0500</pubDate>
+      <title>Lightning Talks</title>
+      <link>/post/20180813-lightning/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/post/20180813-lightning/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>August Lightning Talks</title>
-      <link>/talk/2018-08-13_lightning/</link>
+      <link>/talk/20180813_lightning/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/2018-08-13_lightning/</guid>
-      <description>&lt;p&gt;#Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/talk/20180813_lightning/</guid>
+      <description>&lt;p&gt;Slides and material are available &lt;a href=&#34;https://bit.ly/rlel-github.meetup&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>September Lightning Talks</title>
-      <link>/talk/2018-09-10_lightning/</link>
+      <link>/talk/20180910_lightning/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/2018-09-10_lightning/</guid>
+      <guid>/talk/20180910_lightning/</guid>
       <description>&lt;p&gt;#Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>R Ladies East Lansing</title>
-      <link>/post/2018-07-25_chapter_kickoff/</link>
+      <title>Kick-off Meetup</title>
+      <link>/talk/20180725-kickoff/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/2018-07-25_chapter_kickoff/</guid>
-      <description>&lt;p&gt;On a cool Monday evening in late July almost 40 women (and a few brave men) gathered at Michigan State University&amp;rsquo;s campus to kickoff the R-Ladies East Lansing Chapter. The group included women in industry and academia who were using the R-language (or planning to use it) for a variety of applications including computer science, human health, earth sciences, political science, statistics and finance.&lt;/p&gt;
+      <guid>/talk/20180725-kickoff/</guid>
+      <description>&lt;p&gt;Slides and material are available &lt;a href=&#34;https://bit.ly/rlel-github.meetup&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing</title>
+      <link>/post/20180725-kickoff/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/20180725-kickoff/</guid>
+      <description>&lt;p&gt;On a cool Monday evening in late July almost 40 women (and a few brave men) gathered at Michigan State University&amp;rsquo;s campus to kickoff the &lt;strong&gt;R-Ladies East Lansing&lt;/strong&gt; Chapter. The group included women in industry and academia who were using the R-language (or planning to use it) for a variety of applications including computer science, human health, earth sciences, political science, statistics and finance.&lt;/p&gt;
 
 &lt;p&gt;Over pizza and pop the group warmed up with introductions and engaged in discussions about their R-interests. A series of R and data science lightning talks has been scheduled for August and September for members to share how they are using R in their work or for fun. Attendees were overwhelming interested in learning more about data visualization, R Markdown and WebApps with Shiny and the group hopes to host a few workshops to address these topics in the future.&lt;/p&gt;
 
 &lt;p&gt;R-Ladies East Lansing supports leadership by women and other gender minorities and welcomes &lt;strong&gt;women and men&lt;/strong&gt; to participate by leading an r-specific discussion over slack and in the bi-weekly Fall R-Ladies discussions (2nd and 4th Mondays) on MSU&amp;rsquo;s campus. The group aims to build a rich R-support community in East Lansing engaging users from academia and industry.&lt;/p&gt;
 
-&lt;p&gt;Connect with the group on meetup, twitter, facebook, and Slack.&lt;/p&gt;
+&lt;p&gt;Connect with the group on &lt;a href=&#34;//bit.ly/rlel-meetup&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;, &lt;a href=&#34;//twitter.com/RLadiesELansing&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;//facebook.com/rladieseastlansing&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;, and &lt;a href=&#34;//rladies-eastlansing.slack.com&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -256,10 +265,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <link>/project/rladies/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>/project/rladies/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -288,54 +297,6 @@ git submodule update --init --recursive
       
       <guid>/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     

@@ -22,13 +22,13 @@
     </item>
     
     <item>
-      <title>R Ladies East Lansing</title>
+      <title>R-Ladies East Lansing</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Discuss. Learn. Network. Work on all things R! Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>Discuss. Learn. Network. Work on all things R! Latest release --  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  -- </description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Our Community R-Ladies East Lansing welcomes R-ethusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members&amp;rsquo; R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!
+      <description>Our Community R-Ladies East Lansing welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members&amp;rsquo; R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!
 Anyone and everyone interested in R/Data Science should join the group.</description>
     </item>
     

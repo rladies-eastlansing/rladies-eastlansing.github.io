@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>/unused/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
@@ -12,15 +12,15 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2030-01-01T00:00:00-05:00</lastmod>
+      <loc>/post/20180813-lightning/</loc>
+      <lastmod>2018-08-13T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/talk/2018-08-13_lightning/</loc>
+      <loc>/talk/20180813_lightning/</loc>
       <lastmod>2018-08-12T00:00:00-04:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/talk/2018-09-10_lightning/</loc>
+      <loc>/talk/20180910_lightning/</loc>
       <lastmod>2018-08-12T00:00:00-04:00</lastmod>
     </url>
     
@@ -36,7 +36,15 @@
     
     <url>
     
-      <loc>/post/2018-07-25_chapter_kickoff/</loc>
+      <loc>/talk/20180725-kickoff/</loc>
+      <lastmod>2018-07-25T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/20180725-kickoff/</loc>
       <lastmod>2018-08-13T00:00:00-04:00</lastmod>
     </url>
     
@@ -76,7 +84,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <loc>/project/rladies/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -94,14 +102,6 @@
     
       <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -187,15 +187,6 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -214,17 +205,8 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/r-ladies/</loc>
+      <lastmod>2018-08-13T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -241,26 +223,8 @@
     
     <url>
     
-      <loc>/tags/r_ladies/</loc>
-      <lastmod>2018-08-13T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/r_packages/</loc>
       <lastmod>2018-08-12T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -287,6 +251,15 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/unused/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
