@@ -4,22 +4,6 @@
     
     <url>
     
-      <loc>/unused/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/20180813-lightning/</loc>
-      <lastmod>2018-08-13T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/20180813_lightning/</loc>
       <lastmod>2018-08-12T00:00:00-04:00</lastmod>
     </url>
@@ -30,14 +14,6 @@
     
       <loc>/talk/20180910_lightning/</loc>
       <lastmod>2018-08-12T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/20180725-kickoff/</loc>
-      <lastmod>2018-07-25T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -134,15 +110,6 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -187,6 +154,27 @@
     
     <url>
     
+      <loc>/post/20180813-lightning/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/20180910-lightning/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/20180924-lightning/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -206,7 +194,7 @@
     <url>
     
       <loc>/tags/r-ladies/</loc>
-      <lastmod>2018-08-13T00:00:00-04:00</lastmod>
+      <lastmod>2018-08-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,16 +239,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/unused/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,30 @@
+---
+title: "Lightning Talks"
+description: |
+  Round #1 of #rladies #rstats lightning talks!
+author:
+  - name: Janani Ravi 
+    url: https://jananiravi.github.io
+    affiliation: MSU
+    affiliation_url: https://rladies-eastlansing.github.io
+date: "Aug 13, 2018"
+output: radix::radix_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Our inaugural round of lightning talks by:
+
+- @MissRDale on Git & R
+- @Ni_LaLe Experimental languages w/ R
+- @KaylaInBio Having fun w/ Rcade
+- @CamilleArcher5 Websites w/ R
+- @janani137 UpSet plots w/ R &
+- @bigdataignite for their conference promo.
+
+💰Thanks again @BEACON_Center  #rladies #Rstats
+
+**Hosts:**
+Janani Ravi & Camille Archer

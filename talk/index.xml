@@ -30,14 +30,5 @@
       <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
-    <item>
-      <title>Kick-off Meetup</title>
-      <link>/talk/20180725-kickoff/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/talk/20180725-kickoff/</guid>
-      <description>Slides and material are available here.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Lightning Talks</title>
-      <link>/post/20180813-lightning/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/post/20180813-lightning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R-Ladies East Lansing</title>
       <link>/post/20180725-kickoff/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
@@ -29,6 +20,39 @@
       <guid>/post/20180725-kickoff/</guid>
       <description>On a cool Monday evening in late July almost 40 women (and a few brave men) gathered at Michigan State University&amp;rsquo;s campus to kickoff the R-Ladies East Lansing Chapter. The group included women in industry and academia who were using the R-language (or planning to use it) for a variety of applications including computer science, human health, earth sciences, political science, statistics and finance.
 Over pizza and pop the group warmed up with introductions and engaged in discussions about their R-interests.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/post/20180813-lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/20180813-lightning/</guid>
+      <description>Our inaugural round of lightning talks by:
+ @MissRDale on Git &amp;amp; R @Ni_LaLe Experimental languages w/ R @KaylaInBio Having fun w/ Rcade @CamilleArcher5 Websites w/ R @janani137 UpSet plots w/ R &amp;amp; @bigdataignite for their conference promo.  💰Thanks again @BEACON_Center #rladies #Rstats
+Hosts: Janani Ravi &amp;amp; Camille Archer</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/post/20180910-lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/20180910-lightning/</guid>
+      <description>We had such an amazing line up of talks!
+ Morphospaces w/ #Geomorph by Acacia Ackles Integrating Python &amp;amp; R w/ #Reticulate by Anna Yannakopoulos Literature Survey w/ #Bibliometrix by Veronica Frans GLM w/ #glmulti by Lauren Wisnieski Cool #dataviz resources Data-to-Viz RGraph Gallery by Janani Ravi  💰Special thanks to College Of Veterinary Medicine [@MSUVets](https://twitter.com/MSUVets) Michigan State University
+Hosts: Janani Ravi &amp;amp; Camille Archer</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/post/20180924-lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/20180924-lightning/</guid>
+      <description>A great set of talks to conlude our lightning talk series!
+ Spatial Humanities w/ R Rachael White R/qtl Miranda Haus Hyenas, Microbes &amp;amp; R Connie Rojas Publication quality figures w/ #ggpubr by Taylor Dunivin R+LaTeX=knitr Cara Feldscher  💰Thank you Krishnan Lab[ @KrishnanLab](https://twitter.com/KrishnanLab) CMSE BMB, Michigan State University
+Hosts: Janani Ravi &amp;amp; Camille Archer</description>
     </item>
     
   </channel>
