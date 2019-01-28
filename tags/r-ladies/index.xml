@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies on R-Ladies East Lansing</title>
-    <link>/tags/r-ladies/</link>
+    <link>https://rladies-eastlansing.github.io/tags/r-ladies/</link>
     <description>Recent content in R-Ladies on R-Ladies East Lansing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; R-Ladies East Lansing, 2018</copyright>
     <lastBuildDate>Sun, 12 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/r-ladies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladies-eastlansing.github.io/tags/r-ladies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>August Lightning Talks</title>
-      <link>/talk/20180813_lightning/</link>
+      <link>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/20180813_lightning/</guid>
+      <guid>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</guid>
       <description>Slides and material are available here.</description>
     </item>
     
     <item>
-      <title>R-Ladies East Lansing</title>
-      <link>/post/20180725-kickoff/</link>
+      <title>2018: KickOff Meeting!</title>
+      <link>https://rladies-eastlansing.github.io/post/2018/2018-kickoff-meeting/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/20180725-kickoff/</guid>
+      <guid>https://rladies-eastlansing.github.io/post/2018/2018-kickoff-meeting/</guid>
       <description>On a cool Monday evening in late July almost 40 women (and a few brave men) gathered at Michigan State University&amp;rsquo;s campus to kickoff the R-Ladies East Lansing Chapter. The group included women in industry and academia who were using the R-language (or planning to use it) for a variety of applications including computer science, human health, earth sciences, political science, statistics and finance.
 Over pizza and pop the group warmed up with introductions and engaged in discussions about their R-interests.</description>
     </item>

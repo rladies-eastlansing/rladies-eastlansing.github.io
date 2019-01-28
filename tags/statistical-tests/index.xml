@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Tests on R-Ladies East Lansing</title>
-    <link>/tags/statistical-tests/</link>
+    <link>https://rladies-eastlansing.github.io/tags/statistical-tests/</link>
     <description>Recent content in Statistical Tests on R-Ladies East Lansing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; R-Ladies East Lansing, 2018</copyright>
     <lastBuildDate>Sun, 12 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/statistical-tests/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladies-eastlansing.github.io/tags/statistical-tests/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>August Lightning Talks</title>
-      <link>/talk/20180813_lightning/</link>
+      <link>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/20180813_lightning/</guid>
+      <guid>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</guid>
       <description>Slides and material are available here.</description>
     </item>
     

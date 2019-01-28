@@ -2,112 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R-Ladies East Lansing</title>
-    <link>/tags/</link>
+    <link>https://rladies-eastlansing.github.io/tags/</link>
     <description>Recent content in Tags on R-Ladies East Lansing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; R-Ladies East Lansing, 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladies-eastlansing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://rladies-eastlansing.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/demo/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ditching_Excel</title>
-      <link>/tags/ditching_excel/</link>
+      <link>https://rladies-eastlansing.github.io/tags/ditching_excel/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/ditching_excel/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/ditching_excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games</title>
-      <link>/tags/games/</link>
+      <link>https://rladies-eastlansing.github.io/tags/games/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/games/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://rladies-eastlansing.github.io/tags/r/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://rladies-eastlansing.github.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R-Ladies</title>
-      <link>/tags/r-ladies/</link>
+      <link>https://rladies-eastlansing.github.io/tags/r-ladies/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/r-ladies/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/r-ladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R_packages</title>
-      <link>/tags/r_packages/</link>
+      <link>https://rladies-eastlansing.github.io/tags/r_packages/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/r_packages/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/r_packages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Tests</title>
-      <link>/tags/statistical-tests/</link>
+      <link>https://rladies-eastlansing.github.io/tags/statistical-tests/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/statistical-tests/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/statistical-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical_Tests</title>
-      <link>/tags/statistical_tests/</link>
+      <link>https://rladies-eastlansing.github.io/tags/statistical_tests/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/statistical_tests/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/statistical_tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Control</title>
-      <link>/tags/version-control/</link>
+      <link>https://rladies-eastlansing.github.io/tags/version-control/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/version-control/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/version-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>/tags/visualization/</link>
+      <link>https://rladies-eastlansing.github.io/tags/visualization/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/visualization/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Websites</title>
-      <link>/tags/websites/</link>
+      <link>https://rladies-eastlansing.github.io/tags/websites/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/websites/</guid>
+      <guid>https://rladies-eastlansing.github.io/tags/websites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogs</title>
+      <link>https://rladies-eastlansing.github.io/tags/blogs/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://rladies-eastlansing.github.io/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://rladies-eastlansing.github.io/tags/datascience/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://rladies-eastlansing.github.io/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rladies</title>
+      <link>https://rladies-eastlansing.github.io/tags/rladies/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://rladies-eastlansing.github.io/tags/rladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software-tools</title>
+      <link>https://rladies-eastlansing.github.io/tags/software-tools/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://rladies-eastlansing.github.io/tags/software-tools/</guid>
       <description></description>
     </item>
     

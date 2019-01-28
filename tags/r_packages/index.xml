@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R_packages on R-Ladies East Lansing</title>
-    <link>/tags/r_packages/</link>
+    <link>https://rladies-eastlansing.github.io/tags/r_packages/</link>
     <description>Recent content in R_packages on R-Ladies East Lansing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; R-Ladies East Lansing, 2018</copyright>
     <lastBuildDate>Sun, 12 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/r_packages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladies-eastlansing.github.io/tags/r_packages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>August Lightning Talks</title>
-      <link>/talk/20180813_lightning/</link>
+      <link>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/20180813_lightning/</guid>
+      <guid>https://rladies-eastlansing.github.io/talk/august-lightning-talks/</guid>
       <description>Slides and material are available here.</description>
     </item>
     
     <item>
       <title>September Lightning Talks</title>
-      <link>/talk/20180910_lightning/</link>
+      <link>https://rladies-eastlansing.github.io/talk/september-lightning-talks/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/20180910_lightning/</guid>
+      <guid>https://rladies-eastlansing.github.io/talk/september-lightning-talks/</guid>
       <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
